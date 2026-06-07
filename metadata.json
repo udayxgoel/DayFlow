@@ -1,0 +1,6 @@
+{
+  "name": "DayFlow",
+  "description": "An AI-powered daily planner that builds a realistic, productive schedule from your tasks and available hours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
